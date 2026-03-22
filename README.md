@@ -26,4 +26,4 @@ panel serve brooklyn_bridge_interactive.py --show
 
 ## Project
 
-This interactive redesign was created as one of my projects in the course Information Visualization.
+This interactive dashboard was created as one of my projects in the course Information Visualization.
