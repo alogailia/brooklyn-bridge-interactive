@@ -412,7 +412,8 @@ the Brooklyn Bridge exhibits a daily "tourist loop" where pedestrian flow revers
 # ENTRY POINT
 # ══════════════════════════════════════════════════════════════════════════════
 
+template.servable()
+
 if __name__ == "__main__":
-    template.servable()
     print("  Interactive visualization created")
     print("  Run with: panel serve brooklyn_bridge_interactive.py --show")
